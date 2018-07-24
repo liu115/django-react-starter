@@ -1,0 +1,21 @@
+# misc
+*.pyc
+db.sqlite3
+.DS_Store
+Thumbs.db
+.vscode
+
+# virtualenv
+.env
+ENV
+.venv
+venv
+__pycache__/
+
+# npm
+node_modules
+npm-debug.log
+package-lock.json
+
+# bower
+bower_components

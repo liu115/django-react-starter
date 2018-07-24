@@ -1,0 +1,7 @@
+django==2.0.7
+django-social-auth==0.7.28
+mysqlclient
+
+# google api
+google-api-python-client==1.7.4
+google-auth==1.5.0
